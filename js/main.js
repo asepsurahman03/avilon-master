@@ -150,6 +150,4 @@ document.getElementById('contactForm').addEventListener('submit', function(event
   // Display success message
   document.getElementById('sendmessage').style.display = 'block';
   form.reset();
-});ementById('sendmessage').style.display = 'block';
-  form.reset();
-
+});
