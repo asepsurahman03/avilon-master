@@ -123,7 +123,6 @@ jQuery(document).ready(function($) {
   // custom code
 
 });
-<<<<<<< HEAD
 
 
 
@@ -151,6 +150,6 @@ document.getElementById('contactForm').addEventListener('submit', function(event
   // Display success message
   document.getElementById('sendmessage').style.display = 'block';
   form.reset();
-});
-=======
->>>>>>> ea5431089afc3b0b853379e7ea76a82c598c3f67
+});ementById('sendmessage').style.display = 'block';
+  form.reset();
+
